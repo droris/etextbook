@@ -1,0 +1,27 @@
+{
+  "name": "etextbook",
+  "version": "0.0.0",
+  "description": "Etextbook that can be filled up, colored and shared",
+  "main": "index.js",
+  "dependencies": {
+    "pdfkit": "~0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droris/etextbook.git"
+  },
+  "keywords": [
+    "pdf",
+    "learning",
+    "textbook"
+  ],
+  "author": "Yacov Drori, Avraham Drori",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/droris/etextbook/issues"
+  }
+}
